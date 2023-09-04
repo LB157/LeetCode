@@ -13,3 +13,6 @@ build/
 /.vs
 # .vscode
 bin/
+.history
+.cache
+.gitignore

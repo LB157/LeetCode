@@ -21,7 +21,7 @@
             "/**",
             " * @file ${TM_FILENAME}",
             " * @brief",
-            " * @author chenqi (chenqi@imudges.com)",
+            " * @author ",
             " * @version 1.0",
             " * @date ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}",
             " */",
