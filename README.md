@@ -71,7 +71,6 @@
 
    `./export.sh`
 
-有问题可以反馈，邮箱：chenqi@imudges.com。
 
 ---
 
